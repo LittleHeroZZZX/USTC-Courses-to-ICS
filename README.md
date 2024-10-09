@@ -6,4 +6,4 @@ USUSTC Courses to ICS是一个用于将中国科学技术大学课程表导出�
 2. 打开[教务系统](https://jw.ustc.edu.cn/)并进入选课页面。
 3. 通过右上角导出ICS按钮下载ICS。
 
-![示意图](./imgs/screentshot.png)
+![示意图](https://raw.githubusercontent.com/LittleHeroZZZX/USTC-Courses-to-ICS/refs/heads/main/imgs/screentshot.png)
